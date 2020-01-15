@@ -9,4 +9,4 @@ French core
 
 # A certains endroit le code est moche (et oui c'est la vie)
 
-# Penser à faire npm i dans la resource flashland
+# Penser à faire npm i uuid-with-v6 dans la resource flashland
