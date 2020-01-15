@@ -6,3 +6,5 @@ Released because Fares want to play with my balls
 French core
 
 # Ils manquent certains truc et je ne vous aidera pas pour ceux-ci
+
+# A certains endroit le code est moche (et oui c'est la vie)
