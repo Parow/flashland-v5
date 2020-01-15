@@ -1,9 +1,7 @@
 # flashland-v5
 Released because Fares want to play with my balls
 
-# Tu m'as bien khalass Loly merci la zone
-
-French core
+# Tu m'as bien khalass Loly eh merci la zone
 
 # Ils manquent certains truc et je ne vous aiderai pas pour ceux-ci
 
