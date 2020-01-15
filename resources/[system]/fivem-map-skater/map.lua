@@ -1,0 +1,1 @@
+spawnpoint 'player_zero' { x = -2357.33, y = 3250.93, z = 106.05 }
