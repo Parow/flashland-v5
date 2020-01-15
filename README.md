@@ -8,3 +8,5 @@ French core
 # Ils manquent certains truc et je ne vous aiderai pas pour ceux-ci
 
 # A certains endroit le code est moche (et oui c'est la vie)
+
+# Penser à faire npm i dans la resource flashland
