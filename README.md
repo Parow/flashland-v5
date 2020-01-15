@@ -7,7 +7,7 @@ Released because Fares want to play with my balls
 
 # Ils manquent certains truc et je ne vous aiderai pas pour ceux-ci
 
-# A certains endroit le code est moche (et oui c'est la vie)
+# A certains endroit le code est moche (et oui c'est la vie) et ya des bugs car c'était encore la phase de développement
 
 # Penser à faire npm i uuid-with-v6 dans la resource flashland
 
