@@ -11,4 +11,4 @@ Released because Fares want to play with my balls
 
 # Penser à faire npm i uuid-with-v6 dans la resource flashland
 
-# Si vous voulez que je vous l'installe et qu'elle fonctionne (100€)
+# Si vous voulez que je vous l'installe et qu'elle fonctionne (100€) (mmmmmm#0057)
